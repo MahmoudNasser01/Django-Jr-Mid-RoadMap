@@ -58,10 +58,12 @@ Resources:
 ### Resources
 
 - Django English Courses:
-  - [Django 3.2 Tutorial by Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&ab_channel=CoreySchafer)
-  - [Django 3.2 Tutorial by Dennis Ivy](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&ab_channel=CoreySchafer)
-  - [Django 3.2 Tutorial by Telusko](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&ab_channel=CoreySchafer)
-  - [Django 3.2 Tutorial by CodeWithHarry](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&ab_channel=CoreySchafer)
+  - [Django Tutorial by Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&ab_channel=CoreySchafer)
+  - [Django 3.0 Tutorial by Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
+  - [Django Tutorial by Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau)
+  - [Django Tutorial by CodeWithHarry](https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr)
+  - [Django 3.2 CodingEntrepreneurs (Python Web Development Tutorial Series)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL)
+  - [ Django REST API with CodingEntrepreneurs](https://www.youtube.com/watch?v=c708Nf0cHrs)
 
 
 - Django Arabic Courses:
