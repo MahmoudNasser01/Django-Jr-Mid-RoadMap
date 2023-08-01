@@ -24,16 +24,23 @@ build some projects using OOP concepts like:
 - School management system
 - Bank system
 
-# 2. Web Development 📠
+# 2. Web Development Fundamentals📠
 Why?
-Your are going to build web applications so you need to know how the web works and how to build web applications
+You are going to build web applications so you need to know how the web works and how to build web applications
 
-Resources:
+### Resources:
 - [Http Requests](https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia)
 - [What is the meaning of web server](https://www.youtube.com/watch?v=9J1nJOivdyw&ab_channel=WebConcepts)
 - [Web Protocols](https://www.youtube.com/watch?v=n7kYogsTkVo&ab_channel=ChrisGreer)
+- [Server types](https://www.youtube.com/watch?v=Uk8sVJsOi64)
 - [What is REST APIs](https://www.youtube.com/watch?v=-mN3VyJuCjM&t=51s&ab_channel=ByteByteGo)
 
+### Practice:
+1. Simple HTTP Server: Build a basic HTTP server using Python's built-in http.server module. This will give you a good understanding of how web servers handle incoming requests and serve static content.
+
+2. File Upload Server: Create a server that accepts file uploads from clients and stores them on the server's filesystem or a cloud storage service like Amazon S3.
+
+3. Task Scheduler Server: Build a web server that allows users to schedule tasks to be executed at specific times or intervals.
 
 # 3. Django 🧑🏼‍💻
 
