@@ -79,6 +79,9 @@ You are going to build web applications so you need to know how the web works an
   - [Django long and very detailed playlist py Hassona Accademy](https://www.youtube.com/watch?v=-Loc7HxKqAw&list=PLHIfW1KZRIfnYEkYsNi5XJLI57OWMKBjM&ab_channel=HassounaAcademy)
 
 
+- Best Django Paid Courses:
+  - [The Ultimate Django Series By Mosh Hamadani](https://codewithmosh.com/p/the-ultimate-django-series)
+
 
 
 # 4. Deployment 🧑‍🔬
