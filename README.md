@@ -5,6 +5,39 @@
 
 
 This repo is for the people who want to learn django and become a django developer, it contains the resources that you need to learn django and become a django developer.
+
+# 0. Mastering Python
+
+## Topics
+- [ ] `Week 1`:
+Python Basics: Variables, data types, and operators
+Control flow statements (if-else, loops)
+
+- [ ] `Week 2`:
+Functions and scope
+Lists and list manipulation
+- [ ] `Week 3`:Tuples, dictionaries, and sets File handling
+- [ ] `Week 4`:
+Object-Oriented Programming (OOP) basics: Classes and objects Inheritance and polymorphism
+- [ ] `Week 5`:
+Exception handling
+Modules and packages
+- [ ] `Week 6`:
+Advanced topics: Generators and iterators
+Decorators also Lambda functions
+Working with files (reading, writing, parsing)
+
+### Final project
+Apply Python skills to solve a real-world problem or build a complete application
+
+## Courses
+- Python English Courses:
+  - [Freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
+ 
+- Python Arabic Courses:
+  - [Mastering python by Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
+  - [Codezellia](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
+ 
 # 1. OOP 🎨
 django is an object oriented framework so you need to master the OOP concepts to be able to understand django and use it in the right way
 
