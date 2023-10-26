@@ -131,6 +131,8 @@ You are going to build web applications so you need to know how the web works an
 
   
 
+# Projects you could start with
+1. `Build an Instagram app using Django`: https://www.youtube.com/playlist?list=PL9tgJISrBWc5619CclyqYrnnMkVOPzVYM
 
 
 # Books ✍🏻
